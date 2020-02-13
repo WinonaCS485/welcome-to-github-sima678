@@ -1,12 +1,10 @@
-# CS485-test-assignment
+# Example-Group-Project
 
-This is a test assignment to make sure everything is working.
+Partner #1: Enter your name:Seema 
 
-Step 1: Please enter your name and your favorite color in this document, then commit and push the file with a comment such as "added my name and favorite color to README".
-
-Name:Seema
-
-Favorite color:Work for ADIDBtets.php
-Step 2: Create or add an existing SQLite3 database in your repository folder, use "git add" to add the file to your repository. Commit and push the new file with a comment such as "added SQLite database"
-
-Useful documentation about Git: https://git-scm.com/doc
+Partner: Jon
+#1: Enter your favorite food:Fish
+#2: Enter your name:
+John
+#2: Enter your favorite food:
+Fish Tacho
